@@ -10,11 +10,11 @@ React
 React Router
 
 # :hammer: Funcionalidades
-`Navegação Entre Páginas:`
+-`Navegação Entre Páginas:`
 Implementação de múltiplas rotas para navegar entre diferentes seções da aplicação, como Home, Produtos, Carrinho, e Contato.
-`Rotas Dinâmicas:` 
+-`Rotas Dinâmicas:` 
 Criação de rotas dinâmicas para visualizar detalhes de produtos específicos.
-`Rotas Aninhadas:`
+-`Rotas Aninhadas:`
 Implementação de rotas aninhadas para organizar melhor a estrutura da aplicação e facilitar a navegação.
 
 Obrigado por conferir o Aluroni! Aproveite a navegação fluida e a deliciosa seleção de produtos alimentícios! 🍝🥩🍲
