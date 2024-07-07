@@ -14,7 +14,7 @@ export default function Sobre() {
         <img src={casa} alt="Casa Aluroni" />
         <div className={styles.sobreNos__texto}>
           <p>
-            Nós do Aluroni oferecemos a vocês, nossos queridos clientes, a Massa Italiana Caseira mais saborosa e sofisticada de São Paulo! Prezamos pelos ingredientes tradicionais da culinária Italiana, frescos e de excelente qualidade para que sua experiência seja ainda mais intensa!
+            Nós do Aluroni oferecemos a vocês, nossos queridos clientes, a Massa Italiana Caseira mais saborosa e sofisticada do Rio de Janeiro! Prezamos pelos ingredientes tradicionais da culinária Italiana, frescos e de excelente qualidade para que sua experiência seja ainda mais intensa!
           </p>
           <p>
             Também possuímos uma cardápio de carnes com muitas opções de acordo com o seu gosto!
